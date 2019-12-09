@@ -1,6 +1,5 @@
-# ShapeAreaLibrary
-Вопрос 8  
+# ShapeAreaLibrary  
+  
 Библиотека для вычисления площади фигур  
   
-Вопрос 9  
 SQL запрос, находится в файле "Question_9_SQL"  
